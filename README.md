@@ -1,6 +1,6 @@
 - 🎶Alternative hip hop producer
 - 🚁Drone pilot and 📹Maker also English language trainer
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and attending the Lanaster Cohort 6 Coding Bootcamp
 
 
 <!---
